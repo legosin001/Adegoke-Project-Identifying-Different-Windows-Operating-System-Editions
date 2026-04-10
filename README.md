@@ -12,7 +12,7 @@
 
 This repository documents a **hands-on lab** focused on identifying and distinguishing between different Windows Operating System editions. Working across multiple virtual machines running different Windows versions, I explored how to locate edition information, identify edition-specific features, and understand the differences between Home, Pro, and Enterprise editions.
 
-> ✅ **Quiz Score: 5 out of 5 — 100%**  
+ 
 > 📅 **Completed:** October 2025
 
 ---
@@ -44,19 +44,23 @@ Understanding Windows editions is a core IT support skill. This lab works throug
 
 **Windows 11 Pro — System > About showing edition, version, build, and hardware specs:**
 
-![Windows 11 Pro About](screenshots/01_Windows11_Pro_System_About.jpg)
+![01_Windows11_Pro_System_About](https://github.com/user-attachments/assets/6cf8af7c-4dfa-4d7b-9f98-4adb06774d8e)
+
+
 
 ---
 
 **BitLocker Drive Encryption — available via Start search on Windows 11 Pro (Pro/Enterprise exclusive feature):**
 
-![BitLocker Search](screenshots/02_BitLocker_Search.jpg)
+![02_BitLocker_Search](https://github.com/user-attachments/assets/83510bea-545f-4583-bdb5-fabe68103500)
+
 
 ---
 
 **Windows 11 Home — System > Activation confirming Home edition on second virtual machine:**
 
-![Windows 11 Home Activation](screenshots/03_Windows11_Home_Activation.jpg)
+![03_Windows11_Home_Activation](https://github.com/user-attachments/assets/57a5db31-8ee1-45ac-b325-3150173f0cfb)
+
 
 ---
 
